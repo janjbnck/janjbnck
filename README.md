@@ -1,7 +1,8 @@
 ```html
-<div class="about-me">
+<div id="about-me">
   <p id="name">Jan Biernacik</p>
   <p id="description">Tech enthusiast and aspiring front-end web developer from Hamburg, Germany.</p>
+  <a id="website" href="https://janbiernacik.com">Learn More</a>
 </div>
 ```
 # Welcome to my GitHub 👋
