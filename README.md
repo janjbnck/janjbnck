@@ -6,6 +6,6 @@
 </div>
 ```
 # Welcome to my GitHub 👋
-My name is Jan, and I am a **Software Developer** from Hamburg, Germany. I am currently completing an **apprenticeship as an IT specialist in application development** at the [Fricke Group](https://fricke.de).
+My name is Jan, and I am a **Software Developer** from Hamburg, Germany. I am currently completing an **apprenticeship as an IT Specialist in Application Development** at the [Fricke Group](https://fricke.de).
 
 [Learn More](https://janbiernacik.com)
